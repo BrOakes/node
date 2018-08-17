@@ -23,5 +23,3 @@ router.get('/is', function(req, res){
 
 
 module.exports = router
-
-console.log(module.exports);
