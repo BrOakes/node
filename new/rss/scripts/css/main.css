@@ -1,0 +1,23 @@
+.center-img{
+                
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+}
+
+.center-text{
+    text-align: center;
+}
+
+#small-text{
+    font-size: 20px;
+}
+
+#med-text{
+    font-size: 30px;
+}
+
+#large-text{
+    font-size: 40px;
+}
